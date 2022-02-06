@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @florrrortizzz
+- 👋 Hi, I’m Flor Ortiz (@florrrortizzz)
 - 👀 I’m interested in Natural Language Processing, Human Computer Interaction, and Cognitive Science 
 - 🌱 I’m currently learning pre-trained language models, sentiment analysis, machine learning.
 - 📫 How to reach me f.drortizflores@gmail.com
